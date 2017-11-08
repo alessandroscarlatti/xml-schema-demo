@@ -1,0 +1,7 @@
+<!--<Penguin noNamespaceSchemaLocation="./penguin.xsd"></Penguin>-->
+
+<pg:Penguin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			xsi:schemaLocation="com.scarlatti ./penguin.xsd"
+			xmlns:pg="com.scarlatti">
+
+</pg:Penguin>
